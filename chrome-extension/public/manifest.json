@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "OrbiTab",
+    "version": "1.0",
+    "permissions": [
+        "tabs",
+        "tabGroups",
+        "nativeMessaging",
+        "storage"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "16": "assets/OrbitTab_logo16.png",
+        "48": "assets/OrbitTab_logo48.png",
+        "128": "assets/OrbitTab_logo128.png"
+    }
+}

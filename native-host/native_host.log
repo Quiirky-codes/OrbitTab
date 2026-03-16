@@ -1,0 +1,369 @@
+[Runtime Error] [Errno 32] Broken pipe
+[Runtime Error] [Errno 32] Broken pipe
+[Startup Error] cannot import name 'cluster_embeddings' from 'tools.clustering' (/Users/amithmjain/OrbiTab/orbitab/native-host/tools/clustering.py)
+[Startup Error] cannot import name 'cluster_embeddings' from 'tools.clustering' (/Users/amithmjain/OrbiTab/orbitab/native-host/tools/clustering.py)
+[Startup Error] cannot import name 'cluster_embeddings' from 'tools.clustering' (/Users/amithmjain/OrbiTab/orbitab/native-host/tools/clustering.py)
+[Startup Error] No module named 'sentence_transformers'
+[Startup Error] cannot import name 'organize_tabs_agent' from 'agent' (/Users/amithmjain/OrbiTab/orbitab/native-host/agent.py)
+[Startup Error] cannot import name 'organize_tabs_agent' from 'agent' (/Users/amithmjain/OrbiTab/orbitab/native-host/agent.py)
+[Startup Error] cannot import name 'organize_tabs_agent' from 'agent' (/Users/amithmjain/OrbiTab/orbitab/native-host/agent.py)
+[Startup Error] cannot import name 'organize_tabs_agent' from 'agent' (/Users/amithmjain/OrbiTab/orbitab/native-host/agent.py)
+[Native Host] Started
+[Runtime Error] 'tabId'
+[Native Host] Started
+[Runtime Error] 'tabId'
+[Native Host] Started
+Received action: organize_tabs
+Sending success response
+[Native Host] Started
+Received action: organize_tabs
+Sending success response
+[Native Host] Started
+Received action: organize_tabs
+Sending success response
+[Native Host] Started
+Received action: organize_tabs
+Sending success response: [{"name": "1. Understanding Browser Extensions\n2. LinkedIn Job Search Tips\n3. Harman's Career Inquiries\n4. Amazon Interview Strategies Video\n5. GFG Employment Resources\n6. Subarray Sum Problem So...
+[Native Host] Started
+Received action: organize_tabs
+[Runtime Error] 'index'
+[Native Host] Started
+Received action: organize_tabs
+[Runtime Error] 'index'
+[Native Host] Started
+Received action: organize_tabs
+Sending success response: [{"name": "1. Browser Extensions Review\n2. LinkedIn Job Inquiries\n3. Amazon Interview Tips Video\n4. GFG Employment Opportunities\n5. Array Subarray Sums Exercise", "tabs": [{"title": "Extensions", ...
+[Native Host] Started
+Received action: organize_tabs
+[Runtime Error] 'index'
+[Native Host] Started
+Received action: organize_tabs
+Sending success response: [{"name": "1. Extension Management Tabs\n2. Social Media & Career Focus\n3. Job Preparation Resources\n4. Interview Technique Videos\n5. Algorithmic Problem Solving", "tabs": [{"title": "Extensions", ...
+[Native Host] Started
+Received action: organize_tabs
+[Runtime Error] Expecting ',' delimiter: line 57 column 1 (char 1403)
+[Native Host] Started
+Received action: organize_tabs
+[Runtime Error] 'index'
+[Native Host] Started
+Received action: organize_tabs
+[Runtime Error] 'index'
+[Native Host] Started
+Received action: organize_tabs
+Sending success response: [{"name": "1. Extension Management Tab\n2. Social Media Engagement Tabs (4)\n3. Career Development and Networking Questions Tab\n4. Amazon Interview Strategy Video Playlist\n5. GFG Employment Opportun...
+[Native Host] Started
+Received action: organize_tabs
+Sending success response: [{"name": "- Extension Management\n- LinkedIn Feeds Browsing\n- Error Debugging Site\n- Amazon Interview Preparation Video\n- GFG Job Seeking Platform\n- Subarray Sum Indexes Practice Tool\n- Canva In...
+[Native Host] Started
+Received action: organize_tabs
+[Native Host] Started
+Received action: organize_tabs
+Sending success response: [{"name": "1. Extension Management\n2. Social Media Monitoring\n3. Interview Preparation Videos\n4. Array Analysis Tutorials\n5. Design Platform Exploration", "tabs": [{"title": "Extensions", "url": "...
+[Native Host] Started
+Received action: organize_tabs
+[Runtime Error] HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [Errno 61] Connection refused"))
+[Native Host] Started
+Received action: organize_tabs
+Sending success response: [{"name": "1. Watch YouTube Video\n2. Solve Coding Problems on LeetCode\n3. Access Personal Account on New Tab", "tabs": [{"title": "YouTube", "url": "https://www.youtube.com/", "tabId": null, "summar...
+[Native Host] Started
+Received action: organize_tabs
+Sending success response: [{"name": "1. Watch YouTube videos\n2. Solve coding problems on LeetCode\n3. Explore personal website New Tab", "tabs": [{"title": "YouTube", "url": "https://www.youtube.com/", "tabId": null, "summary...
+[Native Host] Started
+Received action: organize_tabs
+[Runtime Error] 'index'
+[Native Host] Started
+Received action: organize_tabs
+[Native Host] Started
+Received action: organize_tabs
+[Native Host] Started
+Received action: organize_tabs
+[Runtime Error] 'index'
+[Runtime Error] 'index'
+Sending success response: [{"name": "1. \"Kamath's Geek Tutorial\"\n2. \"Learning Hub Exploration\"\n3. \"Social Chat Tab\"\n4. \"Nikhil Kamath - YouTube\" (Original)\n5. \"GeeksforGeeks Learning Portal\"", "tabs": [{"title": ...
+[Native Host] Started
+Received action: organize_tabs
+[Runtime Error] 'index'
+[Native Host] Started
+Received action: organize_tabs
+[Runtime Error] 'index'
+[Native Host] Started
+Received action: organize_tabs
+[Runtime Error] string indices must be integers, not 'str'
+[Native Host] Started
+Received action: organize_tabs
+[Runtime Error] 'index'
+[Native Host] Started
+Received action: organize_tabs
+[Runtime Error] 'index'
+[Native Host] Started
+[Native Host] Started
+[DEBUG] Raw message: {"action":"organize_tabs","tabs":[{"title":"Nikhil Kamath - YouTube","url":"https://www.youtube.com/@nikhil.kamath/videos","tabId":569618863},{"title":"GeeksforGeeks | Your All-in-One Learning Portal","url":"https://www.geeksforgeeks.org/","tabId":569618864},{"title":"Sign in - Google Accounts","url":"https://accounts.google.com/v3/signin/accountchooser?app_domain=https%3A%2F%2Fwww.perplexity.ai&client_id=60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com&code_challenge=hyyTZlN_H_PAX3IiYqVzYSn3mzn4fA1rBqBWKsaZ3Ec&code_challenge_method=S256&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPCZqlZ5jvjzvcDcsKX6qAw-YLAyoJqX3avvPp9VL47-icaQihO1dlB_9sCdaH1__WVaYZpso9FVdFcGT0We_JLXp8XvVlQIUS6wX1iBxUA7AzZxLFzW0P_CFJgzDcDmj-aZfJivworD4hiu2nSmqzfhDUw8uw-pNrOtEeoa_KdGrf8zOIE4Es9FjydcBCHps5gBnG1cVhI86Fpt1HmsOZqyO2PL4p8hIcuRTUFKz00HfNwm7tW26BqGhMUpbTfvfXJnEfiDFWrbMsIwwrWOcVQ__K9TaHg1BVSj96wxcWNt3HSqyDb8QO8NeHyUJyqJ3T1eu87qdIaGpcjM52lX06HmT24irmFHDY5VqONQGkFIdOfC0L7gVCAvkQmh1dF_aCO4ZXE2Grz7757Ay8bHijoYpUQv51xqCH2-WHTjp2B6ZtlskSs7y0BcpQZALnG96E_2pEZEU9qQA5D-W8k9sFn7Wolqw%26flowName%3DGeneralOAuthFlow%26as%3DS-214849895%253A1770885476392662%26client_id%3D60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&flowName=GeneralOAuthFlow&o2v=2&opparams=%253Fsource%253Ddefault%2526service%253Dlso&redirect_uri=https%3A%2F%2Fwww.perplexity.ai%2Fapi%2Fauth%2Fcallback%2Fgoogle&response_type=code&scope=openid+email+profile&service=lso&source=default&state=OnWcg3WNxbEuyZ9PvNwbKHFpUsxB5fqxkcK0kJYEtCs&dsh=S-214849895%3A1770885476392662","tabId":569618865},{"title":"Extensions","url":"chrome://extensions/","tabId":569618965}]}
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: organize_tabs
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885397.5097148, "groups": [{"name": "1. \"Kamath's Geek Tutorial\"\n2. \"Learning Hub Exploration\"\n3. \"Social Chat Tab\"\n4. \"Nikhil Kamath - YouTube\" (Original)\n5. \"GeeksforGe...
+[Runtime Error] 'index'
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885397.5097148, "groups": [{"name": "1. \"Kamath's Geek Tutorial\"\n2. \"Learning Hub Exploration\"\n3. \"Social Chat Tab\"\n4. \"Nikhil Kamath - YouTube\" (Original)\n5. \"GeeksforGe...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885397.5097148, "groups": [{"name": "1. \"Kamath's Geek Tutorial\"\n2. \"Learning Hub Exploration\"\n3. \"Social Chat Tab\"\n4. \"Nikhil Kamath - YouTube\" (Original)\n5. \"GeeksforGe...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"organize_tabs","tabs":[{"title":"Nikhil Kamath - YouTube","url":"https://www.youtube.com/@nikhil.kamath/videos","tabId":569618863},{"title":"GeeksforGeeks | Your All-in-One Learning Portal","url":"https://www.geeksforgeeks.org/","tabId":569618864},{"title":"Sign in - Google Accounts","url":"https://accounts.google.com/v3/signin/accountchooser?app_domain=https%3A%2F%2Fwww.perplexity.ai&client_id=60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com&code_challenge=hyyTZlN_H_PAX3IiYqVzYSn3mzn4fA1rBqBWKsaZ3Ec&code_challenge_method=S256&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPCZqlZ5jvjzvcDcsKX6qAw-YLAyoJqX3avvPp9VL47-icaQihO1dlB_9sCdaH1__WVaYZpso9FVdFcGT0We_JLXp8XvVlQIUS6wX1iBxUA7AzZxLFzW0P_CFJgzDcDmj-aZfJivworD4hiu2nSmqzfhDUw8uw-pNrOtEeoa_KdGrf8zOIE4Es9FjydcBCHps5gBnG1cVhI86Fpt1HmsOZqyO2PL4p8hIcuRTUFKz00HfNwm7tW26BqGhMUpbTfvfXJnEfiDFWrbMsIwwrWOcVQ__K9TaHg1BVSj96wxcWNt3HSqyDb8QO8NeHyUJyqJ3T1eu87qdIaGpcjM52lX06HmT24irmFHDY5VqONQGkFIdOfC0L7gVCAvkQmh1dF_aCO4ZXE2Grz7757Ay8bHijoYpUQv51xqCH2-WHTjp2B6ZtlskSs7y0BcpQZALnG96E_2pEZEU9qQA5D-W8k9sFn7Wolqw%26flowName%3DGeneralOAuthFlow%26as%3DS-214849895%253A1770885476392662%26client_id%3D60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&flowName=GeneralOAuthFlow&o2v=2&opparams=%253Fsource%253Ddefault%2526service%253Dlso&redirect_uri=https%3A%2F%2Fwww.perplexity.ai%2Fapi%2Fauth%2Fcallback%2Fgoogle&response_type=code&scope=openid+email+profile&service=lso&source=default&state=OnWcg3WNxbEuyZ9PvNwbKHFpUsxB5fqxkcK0kJYEtCs&dsh=S-214849895%3A1770885476392662","tabId":569618865},{"title":"Extensions","url":"chrome://extensions/","tabId":569618965}]}
+Received action: organize_tabs
+[Runtime Error] string indices must be integers, not 'str'
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885397.5097148, "groups": [{"name": "1. \"Kamath's Geek Tutorial\"\n2. \"Learning Hub Exploration\"\n3. \"Social Chat Tab\"\n4. \"Nikhil Kamath - YouTube\" (Original)\n5. \"GeeksforGe...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"organize_tabs","tabs":[{"title":"Nikhil Kamath - YouTube","url":"https://www.youtube.com/@nikhil.kamath/videos","tabId":569618863},{"title":"GeeksforGeeks | Your All-in-One Learning Portal","url":"https://www.geeksforgeeks.org/","tabId":569618864},{"title":"Sign in - Google Accounts","url":"https://accounts.google.com/v3/signin/accountchooser?app_domain=https%3A%2F%2Fwww.perplexity.ai&client_id=60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com&code_challenge=hyyTZlN_H_PAX3IiYqVzYSn3mzn4fA1rBqBWKsaZ3Ec&code_challenge_method=S256&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPCZqlZ5jvjzvcDcsKX6qAw-YLAyoJqX3avvPp9VL47-icaQihO1dlB_9sCdaH1__WVaYZpso9FVdFcGT0We_JLXp8XvVlQIUS6wX1iBxUA7AzZxLFzW0P_CFJgzDcDmj-aZfJivworD4hiu2nSmqzfhDUw8uw-pNrOtEeoa_KdGrf8zOIE4Es9FjydcBCHps5gBnG1cVhI86Fpt1HmsOZqyO2PL4p8hIcuRTUFKz00HfNwm7tW26BqGhMUpbTfvfXJnEfiDFWrbMsIwwrWOcVQ__K9TaHg1BVSj96wxcWNt3HSqyDb8QO8NeHyUJyqJ3T1eu87qdIaGpcjM52lX06HmT24irmFHDY5VqONQGkFIdOfC0L7gVCAvkQmh1dF_aCO4ZXE2Grz7757Ay8bHijoYpUQv51xqCH2-WHTjp2B6ZtlskSs7y0BcpQZALnG96E_2pEZEU9qQA5D-W8k9sFn7Wolqw%26flowName%3DGeneralOAuthFlow%26as%3DS-214849895%253A1770885476392662%26client_id%3D60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&flowName=GeneralOAuthFlow&o2v=2&opparams=%253Fsource%253Ddefault%2526service%253Dlso&redirect_uri=https%3A%2F%2Fwww.perplexity.ai%2Fapi%2Fauth%2Fcallback%2Fgoogle&response_type=code&scope=openid+email+profile&service=lso&source=default&state=OnWcg3WNxbEuyZ9PvNwbKHFpUsxB5fqxkcK0kJYEtCs&dsh=S-214849895%3A1770885476392662","tabId":569618865},{"title":"Extensions","url":"chrome://extensions/?errors=aejggledilppfnbihldcmmadomneknpa","tabId":569618965}]}
+Received action: organize_tabs
+Sending success response: [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance Browsing Experience", "tabs": [{"title": "N...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"organize_tabs","tabs":[{"title":"Nikhil Kamath - YouTube","url":"https://www.youtube.com/@nikhil.kamath/videos","tabId":569619035},{"title":"GeeksforGeeks | Your All-in-One Learning Portal","url":"https://www.geeksforgeeks.org/","tabId":569619036},{"title":"Sign in - Google Accounts","url":"https://accounts.google.com/v3/signin/accountchooser?app_domain=https%3A%2F%2Fwww.perplexity.ai&client_id=60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com&code_challenge=hyyTZlN_H_PAX3IiYqVzYSn3mzn4fA1rBqBWKsaZ3Ec&code_challenge_method=S256&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPCZqlZ5jvjzvcDcsKX6qAw-YLAyoJqX3avvPp9VL47-icaQihO1dlB_9sCdaH1__WVaYZpso9FVdFcGT0We_JLXp8XvVlQIUS6wX1iBxUA7AzZxLFzW0P_CFJgzDcDmj-aZfJivworD4hiu2nSmqzfhDUw8uw-pNrOtEeoa_KdGrf8zOIE4Es9FjydcBCHps5gBnG1cVhI86Fpt1HmsOZqyO2PL4p8hIcuRTUFKz00HfNwm7tW26BqGhMUpbTfvfXJnEfiDFWrbMsIwwrWOcVQ__K9TaHg1BVSj96wxcWNt3HSqyDb8QO8NeHyUJyqJ3T1eu87qdIaGpcjM52lX06HmT24irmFHDY5VqONQGkFIdOfC0L7gVCAvkQmh1dF_aCO4ZXE2Grz7757Ay8bHijoYpUQv51xqCH2-WHTjp2B6ZtlskSs7y0BcpQZALnG96E_2pEZEU9qQA5D-W8k9sFn7Wolqw%26flowName%3DGeneralOAuthFlow%26as%3DS-214849895%253A1770885476392662%26client_id%3D60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&flowName=GeneralOAuthFlow&o2v=2&opparams=%253Fsource%253Ddefault%2526service%253Dlso&redirect_uri=https%3A%2F%2Fwww.perplexity.ai%2Fapi%2Fauth%2Fcallback%2Fgoogle&response_type=code&scope=openid+email+profile&service=lso&source=default&state=OnWcg3WNxbEuyZ9PvNwbKHFpUsxB5fqxkcK0kJYEtCs&dsh=S-214849895%3A1770885476392662","tabId":569619037},{"title":"Extensions","url":"chrome://extensions/?errors=aejggledilppfnbihldcmmadomneknpa","tabId":569619038}]}
+Received action: organize_tabs
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"organize_tabs","tabs":[{"title":"Nikhil Kamath - YouTube","url":"https://www.youtube.com/@nikhil.kamath/videos","tabId":569619035},{"title":"GeeksforGeeks | Your All-in-One Learning Portal","url":"https://www.geeksforgeeks.org/","tabId":569619036},{"title":"Sign in - Google Accounts","url":"https://accounts.google.com/v3/signin/accountchooser?app_domain=https%3A%2F%2Fwww.perplexity.ai&client_id=60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com&code_challenge=hyyTZlN_H_PAX3IiYqVzYSn3mzn4fA1rBqBWKsaZ3Ec&code_challenge_method=S256&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPCZqlZ5jvjzvcDcsKX6qAw-YLAyoJqX3avvPp9VL47-icaQihO1dlB_9sCdaH1__WVaYZpso9FVdFcGT0We_JLXp8XvVlQIUS6wX1iBxUA7AzZxLFzW0P_CFJgzDcDmj-aZfJivworD4hiu2nSmqzfhDUw8uw-pNrOtEeoa_KdGrf8zOIE4Es9FjydcBCHps5gBnG1cVhI86Fpt1HmsOZqyO2PL4p8hIcuRTUFKz00HfNwm7tW26BqGhMUpbTfvfXJnEfiDFWrbMsIwwrWOcVQ__K9TaHg1BVSj96wxcWNt3HSqyDb8QO8NeHyUJyqJ3T1eu87qdIaGpcjM52lX06HmT24irmFHDY5VqONQGkFIdOfC0L7gVCAvkQmh1dF_aCO4ZXE2Grz7757Ay8bHijoYpUQv51xqCH2-WHTjp2B6ZtlskSs7y0BcpQZALnG96E_2pEZEU9qQA5D-W8k9sFn7Wolqw%26flowName%3DGeneralOAuthFlow%26as%3DS-214849895%253A1770885476392662%26client_id%3D60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&flowName=GeneralOAuthFlow&o2v=2&opparams=%253Fsource%253Ddefault%2526service%253Dlso&redirect_uri=https%3A%2F%2Fwww.perplexity.ai%2Fapi%2Fauth%2Fcallback%2Fgoogle&response_type=code&scope=openid+email+profile&service=lso&source=default&state=OnWcg3WNxbEuyZ9PvNwbKHFpUsxB5fqxkcK0kJYEtCs&dsh=S-214849895%3A1770885476392662","tabId":569619037},{"title":"Extensions","url":"chrome://extensions/","tabId":569619038}]}
+Received action: organize_tabs
+[Runtime Error] 'index'
+[Runtime Error] 'index'
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"organize_tabs","tabs":[{"title":"Nikhil Kamath - YouTube","url":"https://www.youtube.com/@nikhil.kamath/videos","tabId":569619035},{"title":"GeeksforGeeks | Your All-in-One Learning Portal","url":"https://www.geeksforgeeks.org/","tabId":569619036},{"title":"Sign in - Google Accounts","url":"https://accounts.google.com/v3/signin/accountchooser?app_domain=https%3A%2F%2Fwww.perplexity.ai&client_id=60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com&code_challenge=hyyTZlN_H_PAX3IiYqVzYSn3mzn4fA1rBqBWKsaZ3Ec&code_challenge_method=S256&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPCZqlZ5jvjzvcDcsKX6qAw-YLAyoJqX3avvPp9VL47-icaQihO1dlB_9sCdaH1__WVaYZpso9FVdFcGT0We_JLXp8XvVlQIUS6wX1iBxUA7AzZxLFzW0P_CFJgzDcDmj-aZfJivworD4hiu2nSmqzfhDUw8uw-pNrOtEeoa_KdGrf8zOIE4Es9FjydcBCHps5gBnG1cVhI86Fpt1HmsOZqyO2PL4p8hIcuRTUFKz00HfNwm7tW26BqGhMUpbTfvfXJnEfiDFWrbMsIwwrWOcVQ__K9TaHg1BVSj96wxcWNt3HSqyDb8QO8NeHyUJyqJ3T1eu87qdIaGpcjM52lX06HmT24irmFHDY5VqONQGkFIdOfC0L7gVCAvkQmh1dF_aCO4ZXE2Grz7757Ay8bHijoYpUQv51xqCH2-WHTjp2B6ZtlskSs7y0BcpQZALnG96E_2pEZEU9qQA5D-W8k9sFn7Wolqw%26flowName%3DGeneralOAuthFlow%26as%3DS-214849895%253A1770885476392662%26client_id%3D60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&flowName=GeneralOAuthFlow&o2v=2&opparams=%253Fsource%253Ddefault%2526service%253Dlso&redirect_uri=https%3A%2F%2Fwww.perplexity.ai%2Fapi%2Fauth%2Fcallback%2Fgoogle&response_type=code&scope=openid+email+profile&service=lso&source=default&state=OnWcg3WNxbEuyZ9PvNwbKHFpUsxB5fqxkcK0kJYEtCs&dsh=S-214849895%3A1770885476392662","tabId":569619037},{"title":"Extensions","url":"chrome://extensions/","tabId":569619038}]}
+Received action: organize_tabs
+[Runtime Error] 'index'
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Native Host] Started
+[Native Host] Started
+[DEBUG] Raw message: {"action":"organize_tabs","tabs":[{"title":"Nikhil Kamath - YouTube","url":"https://www.youtube.com/@nikhil.kamath/videos","tabId":569619199},{"title":"GeeksforGeeks | Your All-in-One Learning Portal","url":"https://www.geeksforgeeks.org/","tabId":569619200},{"title":"Sign in - Google Accounts","url":"https://accounts.google.com/v3/signin/accountchooser?app_domain=https%3A%2F%2Fwww.perplexity.ai&client_id=60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com&code_challenge=hyyTZlN_H_PAX3IiYqVzYSn3mzn4fA1rBqBWKsaZ3Ec&code_challenge_method=S256&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPCZqlZ5jvjzvcDcsKX6qAw-YLAyoJqX3avvPp9VL47-icaQihO1dlB_9sCdaH1__WVaYZpso9FVdFcGT0We_JLXp8XvVlQIUS6wX1iBxUA7AzZxLFzW0P_CFJgzDcDmj-aZfJivworD4hiu2nSmqzfhDUw8uw-pNrOtEeoa_KdGrf8zOIE4Es9FjydcBCHps5gBnG1cVhI86Fpt1HmsOZqyO2PL4p8hIcuRTUFKz00HfNwm7tW26BqGhMUpbTfvfXJnEfiDFWrbMsIwwrWOcVQ__K9TaHg1BVSj96wxcWNt3HSqyDb8QO8NeHyUJyqJ3T1eu87qdIaGpcjM52lX06HmT24irmFHDY5VqONQGkFIdOfC0L7gVCAvkQmh1dF_aCO4ZXE2Grz7757Ay8bHijoYpUQv51xqCH2-WHTjp2B6ZtlskSs7y0BcpQZALnG96E_2pEZEU9qQA5D-W8k9sFn7Wolqw%26flowName%3DGeneralOAuthFlow%26as%3DS-214849895%253A1770885476392662%26client_id%3D60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&flowName=GeneralOAuthFlow&o2v=2&opparams=%253Fsource%253Ddefault%2526service%253Dlso&redirect_uri=https%3A%2F%2Fwww.perplexity.ai%2Fapi%2Fauth%2Fcallback%2Fgoogle&response_type=code&scope=openid+email+profile&service=lso&source=default&state=OnWcg3WNxbEuyZ9PvNwbKHFpUsxB5fqxkcK0kJYEtCs&dsh=S-214849895%3A1770885476392662","tabId":569619201},{"title":"Extensions","url":"chrome://extensions/?errors=aejggledilppfnbihldcmmadomneknpa","tabId":569619202}]}
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: organize_tabs
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Runtime Error] 'index'
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Native Host] Started
+[Native Host] Started
+[DEBUG] Raw message: {"action":"organize_tabs","tabs":[{"title":"Nikhil Kamath - YouTube","url":"https://www.youtube.com/@nikhil.kamath/videos","tabId":569619361},{"title":"GeeksforGeeks | Your All-in-One Learning Portal","url":"https://www.geeksforgeeks.org/","tabId":569619362},{"title":"Sign in - Google Accounts","url":"https://accounts.google.com/v3/signin/accountchooser?app_domain=https%3A%2F%2Fwww.perplexity.ai&client_id=60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com&code_challenge=hyyTZlN_H_PAX3IiYqVzYSn3mzn4fA1rBqBWKsaZ3Ec&code_challenge_method=S256&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPCZqlZ5jvjzvcDcsKX6qAw-YLAyoJqX3avvPp9VL47-icaQihO1dlB_9sCdaH1__WVaYZpso9FVdFcGT0We_JLXp8XvVlQIUS6wX1iBxUA7AzZxLFzW0P_CFJgzDcDmj-aZfJivworD4hiu2nSmqzfhDUw8uw-pNrOtEeoa_KdGrf8zOIE4Es9FjydcBCHps5gBnG1cVhI86Fpt1HmsOZqyO2PL4p8hIcuRTUFKz00HfNwm7tW26BqGhMUpbTfvfXJnEfiDFWrbMsIwwrWOcVQ__K9TaHg1BVSj96wxcWNt3HSqyDb8QO8NeHyUJyqJ3T1eu87qdIaGpcjM52lX06HmT24irmFHDY5VqONQGkFIdOfC0L7gVCAvkQmh1dF_aCO4ZXE2Grz7757Ay8bHijoYpUQv51xqCH2-WHTjp2B6ZtlskSs7y0BcpQZALnG96E_2pEZEU9qQA5D-W8k9sFn7Wolqw%26flowName%3DGeneralOAuthFlow%26as%3DS-214849895%253A1770885476392662%26client_id%3D60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&flowName=GeneralOAuthFlow&o2v=2&opparams=%253Fsource%253Ddefault%2526service%253Dlso&redirect_uri=https%3A%2F%2Fwww.perplexity.ai%2Fapi%2Fauth%2Fcallback%2Fgoogle&response_type=code&scope=openid+email+profile&service=lso&source=default&state=OnWcg3WNxbEuyZ9PvNwbKHFpUsxB5fqxkcK0kJYEtCs&dsh=S-214849895%3A1770885476392662","tabId":569619363},{"title":"Extensions","url":"chrome://extensions/?errors=aejggledilppfnbihldcmmadomneknpa","tabId":569619364}]}
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: organize_tabs
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Runtime Error] 'index'
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+[Native Host] Started
+[DEBUG] Raw message: {"action":"organize_tabs","tabs":[{"title":"Nikhil Kamath - YouTube","url":"https://www.youtube.com/@nikhil.kamath/videos","tabId":569619860},{"title":"GeeksforGeeks | Your All-in-One Learning Portal","url":"https://www.geeksforgeeks.org/","tabId":569619861},{"title":"Sign in - Google Accounts","url":"https://accounts.google.com/v3/signin/accountchooser?app_domain=https%3A%2F%2Fwww.perplexity.ai&client_id=60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com&code_challenge=hyyTZlN_H_PAX3IiYqVzYSn3mzn4fA1rBqBWKsaZ3Ec&code_challenge_method=S256&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPCZqlZ5jvjzvcDcsKX6qAw-YLAyoJqX3avvPp9VL47-icaQihO1dlB_9sCdaH1__WVaYZpso9FVdFcGT0We_JLXp8XvVlQIUS6wX1iBxUA7AzZxLFzW0P_CFJgzDcDmj-aZfJivworD4hiu2nSmqzfhDUw8uw-pNrOtEeoa_KdGrf8zOIE4Es9FjydcBCHps5gBnG1cVhI86Fpt1HmsOZqyO2PL4p8hIcuRTUFKz00HfNwm7tW26BqGhMUpbTfvfXJnEfiDFWrbMsIwwrWOcVQ__K9TaHg1BVSj96wxcWNt3HSqyDb8QO8NeHyUJyqJ3T1eu87qdIaGpcjM52lX06HmT24irmFHDY5VqONQGkFIdOfC0L7gVCAvkQmh1dF_aCO4ZXE2Grz7757Ay8bHijoYpUQv51xqCH2-WHTjp2B6ZtlskSs7y0BcpQZALnG96E_2pEZEU9qQA5D-W8k9sFn7Wolqw%26flowName%3DGeneralOAuthFlow%26as%3DS-214849895%253A1770885476392662%26client_id%3D60244564555-30175ip7vg79fobh0rk1sur3pdutj9l1.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&flowName=GeneralOAuthFlow&o2v=2&opparams=%253Fsource%253Ddefault%2526service%253Dlso&redirect_uri=https%3A%2F%2Fwww.perplexity.ai%2Fapi%2Fauth%2Fcallback%2Fgoogle&response_type=code&scope=openid+email+profile&service=lso&source=default&state=OnWcg3WNxbEuyZ9PvNwbKHFpUsxB5fqxkcK0kJYEtCs&dsh=S-214849895%3A1770885476392662","tabId":569619862},{"title":"Extensions","url":"chrome://extensions/","tabId":569619863},{"title":"New Tab | My Space","url":"chrome://newtab/","tabId":569619960}]}
+Received action: get_recent_sessions
+Received action: organize_tabs
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Runtime Error] 'index'
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"organize_tabs","tabs":[{"title":"New Tab | My Space","url":"chrome://newtab/","tabId":569620034}]}
+Received action: organize_tabs
+[Runtime Error] k must be less than or equal to the number of training points
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"organize_tabs","tabs":[{"title":"Extensions","url":"chrome://extensions/","tabId":569620034}]}
+Received action: organize_tabs
+[Runtime Error] k must be less than or equal to the number of training points
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"organize_tabs","tabs":[{"title":"Extensions","url":"chrome://extensions/","tabId":569620034}]}
+Received action: organize_tabs
+[Runtime Error] k must be less than or equal to the number of training points
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770885853.314694, "groups": [{"name": "1. \"Kamath YT\"\n2. \"Learning Geekz\"\n3. \"Google Sign In\"\n4. \"Browser Extensions\"\n\nTask Name: Explore Educational Resources and Enhance B...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"organize_tabs","tabs":[{"title":"Extensions","url":"chrome://extensions/","tabId":569620034},{"title":"New Tab | My Space","url":"chrome://newtab/","tabId":569620123}]}
+Received action: organize_tabs
+Sending success response: [{"name": "\"Managing Browser Extensions and Personalizing New Tabs.\"", "tabs": [{"title": "Extensions", "url": "chrome://extensions/", "tabId": null, "summary": null}, {"title": "New Tab | My Space"...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770911301.87604, "groups": [{"name": "\"Managing Browser Extensions and Personalizing New Tabs.\"", "tabs": [{"title": "Extensions", "url": "chrome://extensions/", "tabId": null, "summar...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770911301.87604, "groups": [{"name": "\"Managing Browser Extensions and Personalizing New Tabs.\"", "tabs": [{"title": "Extensions", "url": "chrome://extensions/", "tabId": null, "summar...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"organize_tabs","tabs":[{"title":"Extensions","url":"chrome://extensions/","tabId":569620034},{"title":"New Tab | My Space","url":"chrome://newtab/","tabId":569620123}]}
+Received action: organize_tabs
+[Runtime Error] Unterminated string starting at: line 8 column 7 (char 337)
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770911301.87604, "groups": [{"name": "\"Managing Browser Extensions and Personalizing New Tabs.\"", "tabs": [{"title": "Extensions", "url": "chrome://extensions/", "tabId": null, "summar...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770911301.87604, "groups": [{"name": "\"Managing Browser Extensions and Personalizing New Tabs.\"", "tabs": [{"title": "Extensions", "url": "chrome://extensions/", "tabId": null, "summar...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"organize_tabs","tabs":[{"title":"Extensions","url":"chrome://extensions/","tabId":569620034},{"title":"New Tab | My Space","url":"chrome://newtab/","tabId":569620123}]}
+Received action: organize_tabs
+[Runtime Error] 'index'
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770911301.87604, "groups": [{"name": "\"Managing Browser Extensions and Personalizing New Tabs.\"", "tabs": [{"title": "Extensions", "url": "chrome://extensions/", "tabId": null, "summar...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770911301.87604, "groups": [{"name": "\"Managing Browser Extensions and Personalizing New Tabs.\"", "tabs": [{"title": "Extensions", "url": "chrome://extensions/", "tabId": null, "summar...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770911301.87604, "groups": [{"name": "\"Managing Browser Extensions and Personalizing New Tabs.\"", "tabs": [{"title": "Extensions", "url": "chrome://extensions/", "tabId": null, "summar...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770911301.87604, "groups": [{"name": "\"Managing Browser Extensions and Personalizing New Tabs.\"", "tabs": [{"title": "Extensions", "url": "chrome://extensions/", "tabId": null, "summar...
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770911301.87604, "groups": [{"name": "\"Managing Browser Extensions and Personalizing New Tabs.\"", "tabs": [{"title": "Extensions", "url": "chrome://extensions/", "tabId": null, "summar...
+[Native Host] Started
+[Native Host] Started
+[DEBUG] Raw message: {"action":"organize_tabs","tabs":[{"title":"New Tab | My Space","url":"chrome://newtab/","tabId":569620585},{"title":"LeetCode - The World's Leading Online Programming Learning Platform","url":"https://leetcode.com/","tabId":569620668}]}
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: organize_tabs
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770911301.87604, "groups": [{"name": "\"Managing Browser Extensions and Personalizing New Tabs.\"", "tabs": [{"title": "Extensions", "url": "chrome://extensions/", "tabId": null, "summar...
+[Runtime Error] 'index'
+[Native Host] Started
+[DEBUG] Raw message: {"action":"get_recent_sessions"}
+Received action: get_recent_sessions
+Sending success response: [{"created": 1770911301.87604, "groups": [{"name": "\"Managing Browser Extensions and Personalizing New Tabs.\"", "tabs": [{"title": "Extensions", "url": "chrome://extensions/", "tabId": null, "summar...
+[Startup Error] No module named 'sentence_transformers'
+[Startup Error] No module named 'sentence_transformers'
+[Startup Error] No module named 'sentence_transformers'
+[Startup Error] No module named 'sentence_transformers'
+[Startup Error] No module named 'sentence_transformers'
+[Startup Error] No module named 'sentence_transformers'
+[Native Host] Started
+[Native Host] Started
+[Runtime Error] 'url'
+[Native Host] Started
+[Native Host] Started
+[Runtime Error] 'url'
+[Native Host] Started
+[Native Host] Started
+[Runtime Error] 'url'
+[Native Host] Started
+[Native Host] Started
+[Runtime Error] 'url'
+[Native Host] Started
+[Native Host] Started
+[Runtime Error] 'url'
+[Native Host] Started
+[Native Host] Started
+[Runtime Error] 'url'
+[Native Host] Started
+[Native Host] Started
+[Runtime Error] 'url'
+[Native Host] Started
+[Native Host] Started
+[Runtime Error] 'index'
+[Native Host] Started
+[Native Host] Started
+[Runtime Error] 'index'
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Runtime Error] [Errno 32] Broken pipe
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started
+[Native Host] Started

@@ -1,0 +1,17 @@
+{
+    "name": "ai-tab-manager",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "dependencies": {
+        "react": "^18",
+        "react-dom": "^18"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^4",
+        "vite": "^5"
+    }
+}
